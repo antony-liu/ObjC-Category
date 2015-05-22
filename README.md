@@ -24,3 +24,11 @@ github:<https://github.com/RuiAAPeres/UIViewController-Swizzled>
 This is a project for iOS which regroups a collection of useful UIImage categories to handle operations such as filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving. There is also a subclass of UIImageView to load an image asynchronously from a URL and display it as it is downloaded.
 
 github:<https://github.com/Nyx0uf/NYXImagesKit>
+
+## GTMNSString-HTML
+
+Dealing with NSStrings that contain HTML
+
+Copyright 2006-2008 Google Inc.
+
+github:<https://github.com/siriusdely/GTMNSString-HTML>
