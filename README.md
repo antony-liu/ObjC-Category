@@ -32,3 +32,9 @@ Dealing with NSStrings that contain HTML
 Copyright 2006-2008 Google Inc.
 
 github:<https://github.com/siriusdely/GTMNSString-HTML>
+
+## BlocksKit
+
+Blocks in C and Objective-C are downright magical. They make coding easier and potentially quicker, not to mention faster on the front end with multithreading and Grand Central Dispatch. BlocksKit hopes to facilitate this kind of programming by removing some of the annoying - and, in some cases, impeding - limits on coding with blocks.
+
+github:<https://github.com/zwaldowski/BlocksKit>
